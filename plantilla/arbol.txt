@@ -1,0 +1,50 @@
+.
+├── arbol.txt
+└── my_project
+    ├── CONTRIBUTORS.txt
+    ├── docs
+    │   ├── conf.py
+    │   ├── deploy.rst
+    │   ├── index.rst
+    │   ├── __init__.py
+    │   ├── install.rst
+    │   ├── make.bat
+    │   └── Makefile
+    ├── LICENSE.txt
+    ├── my_project
+    │   ├── manage.py
+    │   ├── my_project
+    │   │   ├── __init__.py
+    │   │   ├── settings
+    │   │   │   ├── base.py
+    │   │   │   ├── __init__.py
+    │   │   │   ├── local.py
+    │   │   │   ├── production.py
+    │   │   │   └── test.py
+    │   │   ├── urls.py
+    │   │   └── wsgi.py
+    │   ├── static
+    │   │   ├── css
+    │   │   │   ├── bootstrap.min.css
+    │   │   │   └── my_project.css
+    │   │   ├── fonts
+    │   │   │   ├── glyphicons-halflings-regular.eot
+    │   │   │   ├── glyphicons-halflings-regular.svg
+    │   │   │   ├── glyphicons-halflings-regular.ttf
+    │   │   │   └── glyphicons-halflings-regular.woff
+    │   │   └── js
+    │   │       ├── bootstrap.min.js
+    │   │       └── my_project.js
+    │   └── templates
+    │       ├── 404.html
+    │       ├── 500.html
+    │       └── base.html
+    ├── README.rst
+    ├── requirements
+    │   ├── base.txt
+    │   ├── local.txt
+    │   ├── production.txt
+    │   └── test.txt
+    └── requirements.txt
+
+11 directories, 36 files

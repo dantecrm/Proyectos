@@ -1,0 +1,7 @@
+django
+django-braces
+django-model-utils
+south   
+bpython     
+logutils
+mysql-python

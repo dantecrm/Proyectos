@@ -1,0 +1,2 @@
+-r base
+gunicorn==18.0
